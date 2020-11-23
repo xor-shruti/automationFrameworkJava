@@ -1,0 +1,17 @@
+/target/
+.allure
+/*/allure-results/
+/*/allure-report/
+/*/test-output/
+/*/target/
+.jar
+
+
+#Eclipse files
+*.settings
+*.classpath
+*.project
+
+
+#Mac OS stuff
+.DS_Store
